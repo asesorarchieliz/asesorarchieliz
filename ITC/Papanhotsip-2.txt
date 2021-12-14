@@ -1,0 +1,63 @@
+<html>
+<head>
+<style>
+div {
+   	font-size: 30px;
+   	text-align: center;
+	font-family: Brush Script MT;
+  }
+   
+  </style>
+</head>
+<body>
+
+<div> 
+	<p>Irish Coffee</p>
+	<img src="Irish_Coffee.jpg">
+
+	<p>Peanut Butter Coffee</p>
+	<img src="Peanut_butter.jpg">
+
+	<p>Matcha Coffee</p>
+	<img src="matcha_Coffee.jpg">
+
+</div>
+
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+}
+
+a:hover {
+  background-color: #000000;
+  color: black;
+}
+
+.previous {
+  background-color: #FFFFFF;
+  color: black;
+}
+
+.next {
+  background-color: #FFF8DC;
+  color: black;
+}
+
+.round {
+  border-radius: 50%;
+}
+</style>
+</head>
+<body>
+
+<a href="Papanhotsip.html" class="previous round">1</a>
+<a href="Papanhotsip-2.html" class="next round">2</a>
+<a href="Papanhotsip-3.html" class="next round">3</a>
+  
+</body>
+</html>
